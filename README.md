@@ -13,7 +13,7 @@ PPAK DOK List
    * [사물인터넷을 위한 리눅스 프로그래밍 with 라즈베리파이 / 저자:서영진]#()
    * [윤성우의 열혈 tcp/ip 소켓 프로그래밍 / 저자 : 윤성우]#()
    #### 자기계발
-   * [완벽한 공부법 :저자: 신영준, 고영성](https://github.com/d-h-k/My-PPAK-DOK-List/blob/master/Wangong.md)
+   * [완벽한 공부법 / 저자: 신영준, 고영성](https://github.com/d-h-k/My-PPAK-DOK-List/blob/master/Wangong.md)
   
   
   #
