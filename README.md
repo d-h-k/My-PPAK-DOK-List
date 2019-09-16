@@ -1,7 +1,7 @@
 # My-PPAK-DOK-List
 PPAK DOK List
  - 나의 작은 도서관
- - 화이팅!!
+ - 화이팅!! - 화이팅!!
 
   #
   #
