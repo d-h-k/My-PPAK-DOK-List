@@ -19,7 +19,7 @@ PPAK DOK List
        * [완벽한 공부법 요약+서평](https://github.com/d-h-k/My-PPAK-DOK-List/blob/master/Wangong.md)
        * [완벽한 공부법 발표용 PPT]()
   
-  
+  - 요즘 업데이트 미진함
   #
   #
   ## 진행 중
